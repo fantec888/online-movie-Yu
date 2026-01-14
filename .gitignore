@@ -1,0 +1,17 @@
+# 依赖包 (绝对不能提交！)
+node_modules/
+
+# 系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 环境变量
+.env
+
+# 构建输出
+dist/
+coverage/
+
+# IDE 配置文件 (可选)
+.idea/
+.vscode/
